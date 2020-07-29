@@ -2,3 +2,4 @@ www.baidu.com
 append
 third
 four
+color 1 --chao
